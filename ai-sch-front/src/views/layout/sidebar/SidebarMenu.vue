@@ -1,0 +1,1 @@
+<sidebar-item v-for="(route, index) in routes" :key="route.path + index" :item="route" /> 
