@@ -51,10 +51,10 @@ python manage.py migrate
 
 #### 后端主要依赖
 
-- Django 3.2+
+- Django 4.2+
 - Django REST framework 3.12+
 - django-cors-headers 3.10+
-- mysqlclient 2.0+
+- mysqlclient 8.0+
 - numpy 1.21+
 - pandas 1.3+
 
